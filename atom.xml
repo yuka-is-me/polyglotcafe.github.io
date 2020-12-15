@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuka-is-me.github.io/polyglotcafe.github.io/.</id>
     <title>PolyglotCafe</title>
-    <updated>2020-12-15T15:36:53.837Z</updated>
+    <updated>2020-12-15T15:52:47.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuka-is-me.github.io/polyglotcafe.github.io/."/>
     <link rel="self" href="https://yuka-is-me.github.io/polyglotcafe.github.io/./atom.xml"/>
@@ -17,11 +17,19 @@ A brand new word!</subtitle>
         <link href="https://yuka-is-me.github.io/polyglotcafe.github.io/./post/hello-world/">
         </link>
         <updated>2020-12-15T14:31:45.000Z</updated>
-        <content type="html"><![CDATA[<p>This is yuka.</p>
-<p>A language lover: I can speak Chinese, English and Japanese. Right now I'm learning Korean and German.</p>
-<p>A lawyer: I've been learning and practicing IP law for six years. I have great passion for legal issues.</p>
-<p>A lifelong learner: I just love learning and sharing. That's why I started this blog to share everything I have interest in.</p>
-<p>Hope we all can enjoy this journey!</p>
+        <content type="html"><![CDATA[<p>你好，世界！</p>
+<p>This is yuka.<br>
+我是yuka。</p>
+<p>A language lover: I can speak Chinese, English and Japanese. Right now I'm learning Korean by Japanese and German by English.<br>
+一个语言爱好者：我会说中文、英语和日语。目前我正在用日语学习韩语，用英语学习德语。</p>
+<p>A lawyer: I've been practicing IP law for years and still have enormous passion for it.<br>
+一个律师：我主要执业于知识产权领域，这也是令我始终怀有热忱的行业。</p>
+<p>A lifelong learner: I just love learning and sharing. That's why I started this blog to share everything I have interest in.<br>
+一个终身学习者：我热爱学习与分享。因此我建立了这个博客并开始分享一切我感到有趣的事物。</p>
+<p>Hope we all can enjoy this journey!<br>
+希望我们都能享受这段旅程！</p>
+<p>To live and enjoy every day as if it is the full final day of my extraordinary, ordinary life. —— About Time<br>
+去用心生活和享受每一天，就像它是我这平凡而又非凡生命的最后一天一样。</p>
 ]]></content>
     </entry>
 </feed>
