@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuka-is-me.github.io/polyglotcafe.github.io/.</id>
     <title>PolyglotCafe</title>
-    <updated>2021-01-01T14:32:39.328Z</updated>
+    <updated>2021-01-01T14:36:34.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuka-is-me.github.io/polyglotcafe.github.io/."/>
     <link rel="self" href="https://yuka-is-me.github.io/polyglotcafe.github.io/./atom.xml"/>
@@ -12,13 +12,13 @@ A brand new word!</subtitle>
     <icon>https://yuka-is-me.github.io/polyglotcafe.github.io/./favicon.ico</icon>
     <rights>All rights reserved 2021, PolyglotCafe</rights>
     <entry>
-        <title type="html"><![CDATA[Python Learning Note]]></title>
+        <title type="html"><![CDATA[Python Learning Note ]]></title>
         <id>https://yuka-is-me.github.io/polyglotcafe.github.io/./post/python-learning-note/</id>
         <link href="https://yuka-is-me.github.io/polyglotcafe.github.io/./post/python-learning-note/">
         </link>
         <updated>2021-01-01T14:31:43.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="python学习笔记">Python学习笔记</h1>
-<h2 id="安装基本组建">安装基本组建</h2>
+        <content type="html"><![CDATA[<p>爬虫学习笔记</p>
+<h1 id="安装基本组件">安装基本组件</h1>
 <ol>
 <li>
 <p>官网下载Python最新版本</p>
@@ -27,20 +27,20 @@ A brand new word!</subtitle>
 <p>官网下载Pycharm</p>
 </li>
 </ol>
-<p>Pycharm是一款IDE软件，即集成开发环境。<br>
-<strong>IDE</strong>: Integrated Development Environment</p>
+<p>Pycharm是一款IDE软件，即集成开发环境。</p>
+<p><strong>IDE</strong>: Integrated Development Environment</p>
 <p>Pycharm作为Python语言的编译器，起到interpret或</p>
 <p>translate的作用。将Python语言转化成计算机可以理解的二</p>
 <p>进制语言，从而起到控制计算机进行操作的作用。</p>
-<h2 id="python语言的特点">Python语言的特点</h2>
+<h1 id="python语言的特点">Python语言的特点</h1>
 <p>Python是一门对大小写非常敏感的语言，所以在进行coding</p>
 <p>的时候，需要注意区分大小写。<br>
 Case sensitive language: sensitive to lower or upper class</p>
 <p>characters.</p>
 <p>Python文件的后缀是“.py”</p>
-<h2 id="基本语法学习">基本语法学习</h2>
+<h1 id="基本语法学习">基本语法学习</h1>
 <p><strong>1.1</strong></p>
-<h3 id="print语法">print语法</h3>
+<h2 id="print语法">print语法</h2>
 <p>print即输出。</p>
 <blockquote>
 <p>print('Hello World')</p>
@@ -52,7 +52,7 @@ Case sensitive language: sensitive to lower or upper class</p>
 <p>都可以。</p>
 <p>win系统上“shift+alt+F10”运行程序。</p>
 <p>第二串代码表示乘法，即将“*”输出十次。</p>
-<h3 id="变量与赋值">变量与赋值</h3>
+<h2 id="变量与赋值">变量与赋值</h2>
 <blockquote>
 <p>name = 10<br>
 name = 'yuka'<br>
@@ -60,10 +60,12 @@ print('name')</p>
 </blockquote>
 <p>最后运行的结果是yuka</p>
 <blockquote>
-<p>new_user = True<br>
-注意True 和False都要首字母大写，等号前面的需要用下划</p>
+<p>new_user = True</p>
 </blockquote>
+<p>注意True 和False都要首字母大写，等号前面的需要用下划</p>
 <p>线连接，但是引号里面的不需要用下划线。</p>
+<p><strong>1.2</strong></p>
+<h2 id="函数function">函数function</h2>
 ]]></content>
     </entry>
     <entry>
